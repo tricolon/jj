@@ -1,6 +1,13 @@
 # jj.js
 
-This lightweight JavaScript library combines performance and tiny file size with a syntax designed for easy readability with little code. It should be seen as a basic library that is perfectly suitable for web developers who want to avoid large, slow frameworks like jQuery or Bootstrap.
+This lightweight JavaScript library combines
+* great performance
+* tiny file size
+* beautiful syntax designed for easy readability with less code
+
+It should be seen as a basic library that is perfectly suitable for web developers who want to avoid large, slow frameworks like jQuery or Bootstrap.
+
+-
 
 #### jj.js is perfectly suitable for:
 * Advanced programmers who want to have their code under control and like to avoid the dead code of large libraries.
