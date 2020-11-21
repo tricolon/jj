@@ -7,7 +7,7 @@ This lightweight JavaScript library combines …
 
 It should be seen as a basic library that is perfectly suitable for web developers who want to avoid large, slow frameworks like jQuery or Bootstrap.
 
-<hr>
+## Audience
 
 #### jj.js is perfectly suitable for:
 * Advanced programmers who want to have their code under control and like to avoid the dead code of large libraries.
