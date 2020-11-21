@@ -6,7 +6,8 @@ This lightweight JavaScript library combines:
 * nice syntax with low code
 * easy readability
 
-It should be seen as a basic library that is perfectly suitable for web developers who want to *avoid* large, slow frameworks like [jQuery](https://github.com/jquery/jquery) or [Bootstrap](https://github.com/twbs/bootstrap).
+It should be seen as a basic library that is perfectly suitable for web developers
+who want to *avoid* large, slow frameworks like [jQuery](https://github.com/jquery/jquery) or [Bootstrap](https://github.com/twbs/bootstrap).
 
 ## Audience
 
