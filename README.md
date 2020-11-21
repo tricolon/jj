@@ -3,9 +3,10 @@
 This lightweight JavaScript library combines …
 * great performance
 * tiny file size
-* beautiful syntax designed for easy readability with less code
+* nice syntax with low code
+* easy readability
 
-It should be seen as a basic library that is perfectly suitable for web developers who want to avoid large, slow frameworks like jQuery or Bootstrap.
+It should be seen as a basic library that is perfectly suitable for web developers who want to *avoid* large, slow frameworks like jQuery or Bootstrap.
 
 ## Audience
 
