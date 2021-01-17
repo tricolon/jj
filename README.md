@@ -18,4 +18,4 @@ It should be seen as a basic library that is perfectly suitable for web develope
 
 #### jj.js is less suitable for:
 * Designers with hardly any programming skills.
-* Web developers who can only handle jQuery, but not Vanilla JavaScript.
+* Developers who can only handle jQuery, but not Vanilla JavaScript.
