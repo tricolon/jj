@@ -1,4 +1,4 @@
-# j.js
+# jj.js
 
 This lightweight JavaScript library is distinguished by:
 * its great performance
