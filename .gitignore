@@ -1,3 +1,12 @@
+# Custom folders #
+###################
+_/
+playground/
+
+# Package manager modules #
+###########################
+node_modules/
+
 # Compiled source #
 ###################
 *.com
@@ -35,7 +44,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Package manager modules #
-###########################
-node_modules/
